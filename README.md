@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## CONSIDERACIONES
+Tuve problemas para exportar la DB, recomiendo correr las migraciones en vez de importar DB. <br>
+Los modulos Max no funcionan si no hay ventas registradas. <br>
+Muchas gracias. 
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
