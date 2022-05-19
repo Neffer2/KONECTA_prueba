@@ -9,6 +9,7 @@
 
 ## CONSIDERACIONES
 Tuve problemas para exportar la DB, recomiendo correr las migraciones en vez de importar DB. <br>
+Las consultas directas a la base de datos, las escribí en los modulos Max dentro de la misma prueba. <br>
 Los modulos Max no funcionan si no hay ventas registradas. <br>
 Muchas gracias. 
 
